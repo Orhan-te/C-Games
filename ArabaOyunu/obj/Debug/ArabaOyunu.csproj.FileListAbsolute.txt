@@ -1,0 +1,10 @@
+C:\Users\ben\Desktop\ArabaOyunu\bin\Debug\ArabaOyunu.exe.config
+C:\Users\ben\Desktop\ArabaOyunu\bin\Debug\ArabaOyunu.exe
+C:\Users\ben\Desktop\ArabaOyunu\bin\Debug\ArabaOyunu.pdb
+C:\Users\ben\Desktop\ArabaOyunu\obj\Debug\ArabaOyunu.csproj.AssemblyReference.cache
+C:\Users\ben\Desktop\ArabaOyunu\obj\Debug\ArabaOyunu.Form1.resources
+C:\Users\ben\Desktop\ArabaOyunu\obj\Debug\ArabaOyunu.Properties.Resources.resources
+C:\Users\ben\Desktop\ArabaOyunu\obj\Debug\ArabaOyunu.csproj.GenerateResource.cache
+C:\Users\ben\Desktop\ArabaOyunu\obj\Debug\ArabaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\ben\Desktop\ArabaOyunu\obj\Debug\ArabaOyunu.exe
+C:\Users\ben\Desktop\ArabaOyunu\obj\Debug\ArabaOyunu.pdb
